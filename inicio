@@ -4,41 +4,37 @@
    <meta charset="utf-8">
    <title>Pasteleria Dulce Luna</title><!--El<html>es la raiz de la página html.¡-->
    <meta name="description" content="pasteleria">
-   <link href="style.css" rel="stylesheet" type="text/css">
+   <link href="estilo.css" rel="stylesheet" type="text/css">
    <script src="oo.js"></script>
 </head>
 <body>
-
-</body> 
-    <h3>
-      Dulce Luna <img src="luna.png" style="width: 55px; height:55px;">
-    </h3> 
-<br>
-  <nav>
+<header class="encabezado"> 
+   <nav>
+      <div><img src="logooo.jpg"></div>
       <ul> 
-          <li><a href="productos.html"> Productos </a></li>
-          <li><a href="promociones.html"> Promociones </a></li>
-          <li><a href="contactanos.html"> Contactos </a></li>
+          <li><a href="pastel.html"> Pasteles </a></li>
+          <li><a href="tarta.html"> Tartas </a></li>
+          <li><a href="gelatina.html"> Gelatinas </a></li>
+          <li><a href="galleta.html"> Galletas </a></li>
+          <li><a href="pedidos.html"> Pedidos </a></li>
+          <li><a href="contactanos.html"> contactos </a></li>
       </ul> 
-    </div>     
-  </nav>  
-<br><br><br><br>    
+   </nav>
+</header>   
+<br>
+<br> 
+</body>  
 <header>    
 <nav>
   <div class="slider">  
      <ul>
-        <li><img src="13.jpg" style="width: 205px; height:205px;"></li>
-        <li><img src="1.jpg" style="width: 205px; height:205px;"></li>
-        <li><img src="2.jpg"  style="width: 205px; height:205px;>"</li>
-        <li><img src="3.jpg"  style="width: 205px; height:205px;>"</li>
-        <li><img src="4.jpg"  style="width: 205px; height:205px;>"</li>
-        <li><img src="5.jpg"  style="width: 205px; height:205px;>"</li>
-        <li><img src="6.jpg"  style="width: 205px; height:205px;>"</li>
-        <li><img src="7.jpg"  style="width: 205px; height:205px;>"</li>
-        <li><img src="8.jpg"  style="width: 205px; height:205px;>"</li>
-        <li><img src="10.jpg"  style="width: 205px; height:205px;>"</li>
-        <li><img src="15.jpg"  style="width: 205px; height:205px;>"</li>
-        <li><img src="14.jpg"  style="width: 205px; height:205px;>"</li>
+
+        <li><img src="8.jpg"  style="width: 350px; height: 350px;>"</li>
+        <li><img src="8.jpg"  style="width: 350px; height: 350px;>"</li>
+        <li><img src="8.jpg"  style="width: 350px; height: 350px;>"</li>
+        <li><img src="8.jpg"  style="width: 350px; height: 350px;>"</li>
+
+
      </ul> 
   </div> 
 </nav> 
@@ -98,6 +94,9 @@ Igualmente cada día ir avanzando con nuestros  diseños acordes a las preferenc
 </footer>    
 </main>
 </html>
+
+
+
 
 
 
