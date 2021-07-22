@@ -1,0 +1,110 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD> 
+   <meta charset="utf-8">
+   <title>Pasteleria Dulce Luna</title><!--El<html>es la raiz de la página html.¡-->
+   <meta name="description" content="pasteleria">
+   <link href="style.css" rel="stylesheet" type="text/css">
+   <script src="oo.js"></script>
+</head>
+<body>
+
+</body> 
+    <h3>
+      Dulce Luna <img src="luna.png" style="width: 55px; height:55px;">
+    </h3> 
+<br>
+  <nav>
+      <ul> 
+          <li><a href="productos.html"> Productos </a></li>
+          <li><a href="promociones.html"> Promociones </a></li>
+          <li><a href="contactanos.html"> Contactos </a></li>
+      </ul> 
+    </div>     
+  </nav>  
+<br><br><br><br>    
+<header>    
+<nav>
+  <div class="slider">  
+     <ul>
+        <li><img src="13.jpg" style="width: 205px; height:205px;"></li>
+        <li><img src="1.jpg" style="width: 205px; height:205px;"></li>
+        <li><img src="2.jpg"  style="width: 205px; height:205px;>"</li>
+        <li><img src="3.jpg"  style="width: 205px; height:205px;>"</li>
+        <li><img src="4.jpg"  style="width: 205px; height:205px;>"</li>
+        <li><img src="5.jpg"  style="width: 205px; height:205px;>"</li>
+        <li><img src="6.jpg"  style="width: 205px; height:205px;>"</li>
+        <li><img src="7.jpg"  style="width: 205px; height:205px;>"</li>
+        <li><img src="8.jpg"  style="width: 205px; height:205px;>"</li>
+        <li><img src="10.jpg"  style="width: 205px; height:205px;>"</li>
+        <li><img src="15.jpg"  style="width: 205px; height:205px;>"</li>
+        <li><img src="14.jpg"  style="width: 205px; height:205px;>"</li>
+     </ul> 
+  </div> 
+</nav> 
+</header>	
+           
+    <p>
+    Nuestro objetivo principal es elaborar  productos que logren plena satisfacción a nuestros  consumidores.
+Producir pasteles y variedad de productos con la mejor  calidad, exquisito sabor y a un costo muy accesible.
+Igualmente cada día ir avanzando con nuestros  diseños acordes a las preferencias dentro del mercado.
+  </p>
+  <br><br>
+</header>  
+<footer>
+  <div class="container-footer-all"></div>
+   <div class="container-body">
+        <div class="colum1"> 
+          <h1>Mas informacion de la compañia</h1>
+          <p> Esta empresa esta dedicada a la produccion de pasteles y sus derivados productos, su objectivo principal es elaborar  productos que logren plena satisfacción a nuestros  consumidores.
+          Producir pasteles y variedad de productos con la mejor  calidad, exquisito sabor y a un costo muy accesible.
+          Igualmente cada día ir avanzando con nuestros  diseños acordes a las preferencias dentro del mercado.
+        </div>
+
+
+        <div class="colum2"> 
+          <h1>Redes Sociales</h1>
+          <div class="row">
+            <img src="fa.jpg">
+            <label> Siguenos en facebook</label>
+          </div>
+
+          <div class="row">
+            <img src="in.jpg">
+            <label> Siguenos en Instagram</label>
+          </div>
+
+          <div class="row">
+            <img src="tw.png">
+            <label> Siguenos en Twiter</label>
+          </div>
+
+        </div>
+        <div class="colum3"> 
+          <h1>Informacion Contactos</h1>
+          <div class="row">
+            <img src="ca.png">
+            <label> Tulancingo Centro Manuel Fernando Soto AV.20</label>
+          </div>
+          <div class="row">
+            <img src="ce.png">
+            <label> +1-898-395-2064</label>
+          </div>
+          <div class="row">
+            <img src="co.png">
+            <label> dulceluna25@gmaul.com</label>
+          </div>
+   </div>
+</footer>    
+</main>
+</html>
+
+
+
+
+
+
+
+
+
+
